@@ -1,0 +1,63 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-> "Request" module -   To get the response of URL
+	Example: URL = 'http://localhost:8080'
+			 auth = AWS4Auth('')
+			 response = requests.get(URL, auth=auth)
+			 response = requests.get(URL, http_auth=('username', 'password'))
+			 response.txt
+			 
+			 
+
+https://github.com/terraform-aws-modules/terraform-aws-lambda/blob/c2c4b0484bea441a9625751c5b05ec17962edb96/package.py#L1163
+
+			 
+https://stackoverflow.com/questions/1345827/how-do-i-find-the-time-difference-between-two-datetime-objects-in-python
+
+
+https://www.techrepublic.com/article/python-5-use-cases-for-programmers/
+
+https://stackoverflow.com/questions/3096953/how-to-calculate-the-time-interval-between-two-time-strings
+
+https://learnpython.com/blog/python-array-vs-list/
+
+https://medium.com/backticks-tildes/list-vs-array-python-data-type-40ac4f294551
+
+https://www.w3schools.com/python/python_lambda.asp
+
+https://thispointer.com/python-filter-a-dictionary-by-conditions-on-keys-or-values/
+
+https://stackoverflow.com/questions/24355751/pass-multiple-dictionaries-to-a-function-as-an-argument/36310898
+
+https://www.edureka.co/blog/interview-questions/top-apache-spark-interview-questions-2016/
+
+https://www.simplilearn.com/top-apache-spark-interview-questions-and-answers-article
+
+https://www.interviewbit.com/spark-interview-questions/
+
+https://medium.com/@lokeshsharma596/is-python-call-by-value-or-call-by-reference-2dd7db74dbd0
+
+https://www.techrepublic.com/article/python-5-use-cases-for-programmers/
+
+https://stackoverflow.com/questions/3096953/how-to-calculate-the-time-interval-between-two-time-strings
+
+https://learnpython.com/blog/python-array-vs-list/
+
+https://stackoverflow.com/questions/7479777/difference-between-python-datetime-vs-time-modules
+
+https://stackoverflow.com/questions/53936773/what-are-event-and-context-in-function-call-in-aws-lambda
+
+https://docs.aws.amazon.com/lambda/latest/dg/python-context.html
+
+
+https://realpython.com/python-json/
+
+https://www.tutorialspoint.com/How-to-pass-a-json-object-as-a-parameter-to-a-python-function
+
+https://medium.com/backticks-tildes/list-vs-array-python-data-type-40ac4f294551
+
+
+https://www.tutorialspoint.com/pyspark/pyspark_storagelevel.htm
+https://www.javatpoint.com/apache-spark-tutorial
+https://www.tutorialspoint.com/apache_spark/apache_spark_rdd.htm
+https://www.edureka.co/blog/spark-tutorial/
+https://intellipaat.com/blog/tutorial/spark-tutorial/
